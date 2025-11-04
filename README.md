@@ -7,12 +7,14 @@ It demonstrates real-world business logic and implements key Django concepts lik
 ---
 
 ## 👥 Group Members
-| Name | Role | GitHub Username |
-|------|------|-----------------|
-| [Member 1] | Project Lead / Backend | @username |
-| [Member 2] | Frontend Developer | @username |
-| [Member 3] | Database & API Integration | @username |
-| [Member 4] | Testing & Deployment | @username |
+| Name | Student Number | GitHub Username |
+192885 - Omoto Brian - Lead
+⁠192197 - Dollan James
+⁠145322 - Matu Chantal
+188741 - Joe Mapelu
+⁠189728 - Boniface Mwangi
+⁠191866 - Abraham Kwikiriz
+
 
 ---
 
@@ -56,5 +58,5 @@ Handles:
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/<group-repo-url>.git
+git clone https://github.com/ecomerce_project.git
 cd ecommerce_project
