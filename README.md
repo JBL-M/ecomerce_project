@@ -1,4 +1,5 @@
-# 🛍️ Django E-commerce Store
+# 🛍️ E-shop store
+
 
 ## 📖 Overview
 This project is a Django-based E-commerce web application designed for our group project.  
