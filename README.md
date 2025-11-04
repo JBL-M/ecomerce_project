@@ -8,12 +8,12 @@ It demonstrates real-world business logic and implements key Django concepts lik
 
 ## 👥 Group Members
 | Name | Student Number | GitHub Username |
-|192885| - Omoto Brian - Lead
-⁠|192197| - Dollan James
-⁠|145322| - Matu Chantal
-|188741| - Joe Mapelu
-⁠|189728| - Boniface Mwangi
-⁠|191866|- Abraham Kwikiriz
+|192885 - Omoto Brian - Lead|
+⁠|192197 - Dollan James|
+⁠|145322 - Matu Chantal|
+|188741 - Joe Mapelu|
+⁠|189728 - Boniface Mwangi|
+⁠|191866- Abraham Kwikiriz|
 
 
 ---
